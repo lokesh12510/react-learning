@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 /**
  *
  * React.createElement() is a function that create objects that describe the DOM nodes.
